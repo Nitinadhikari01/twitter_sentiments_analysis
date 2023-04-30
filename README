@@ -1,0 +1,26 @@
+.....Twitter Sentiment Analysis - NLP.....
+
+**Abstract:-
+The objective of this project is to detect hate speech in tweets. In other words, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.
+
+Formally, given a training sample of tweets and labels, where label '1' denotes the tweet is racist/sexist and label '0' denotes the tweet is not racist/sexist, your objective is to predict the labels on the test dataset.
+
+For training the models, we provide a labelled dataset of more then 31k tweets.
+
+**Libraries used:-
+1.pandas
+2.matplotlib
+3.seaborn
+4.scikit-learn
+
+**Algorithms used:-Logistic Regression
+[
+Logistic regression estimates the probability of an event occurring, such as voted or didn't vote, based on a given dataset of independent variables.
+]
+This is a NLP and Classification problem.use of some basic preprocessing steps for text data,EDA,feature extraction ,traning and testing.
+**Model Accuracy: 95.00
+
+
+**Refrence:-  
+        -AMAN KHARWAL
+        -Hackers Realm
